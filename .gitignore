@@ -12,6 +12,13 @@ obj/
 # VS Code
 .vscode/
 
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+
 # Rider / ReSharper
 .idea/
 *.DotSettings.user
