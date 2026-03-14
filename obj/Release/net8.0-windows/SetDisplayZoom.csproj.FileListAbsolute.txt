@@ -1,0 +1,14 @@
+C:\Repos\SetDisplayZoom\bin\Release\net8.0-windows\SetDisplayZoom.exe
+C:\Repos\SetDisplayZoom\bin\Release\net8.0-windows\SetDisplayZoom.deps.json
+C:\Repos\SetDisplayZoom\bin\Release\net8.0-windows\SetDisplayZoom.runtimeconfig.json
+C:\Repos\SetDisplayZoom\bin\Release\net8.0-windows\SetDisplayZoom.dll
+C:\Repos\SetDisplayZoom\bin\Release\net8.0-windows\SetDisplayZoom.pdb
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.AssemblyInfoInputs.cache
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.AssemblyInfo.cs
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.csproj.CoreCompileInputs.cache
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.dll
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\refint\SetDisplayZoom.dll
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.pdb
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\SetDisplayZoom.genruntimeconfig.cache
+C:\Repos\SetDisplayZoom\obj\Release\net8.0-windows\ref\SetDisplayZoom.dll
