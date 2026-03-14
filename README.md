@@ -4,9 +4,7 @@ SetDisplayZoom is a small Windows tray utility for quickly changing your display
 
 ## Screenshots
 
-```md
 ![Main window](docs/media/main-window.png)
-```
 
 ## What This Project Does
 
@@ -63,6 +61,3 @@ dotnet run
 - `Program.cs`: WinForms entry point
 - `SetDisplayZoom.csproj`: project configuration
 
-## License
-
-No license has been added yet. Add a `LICENSE` file if you plan to share or reuse this project publicly.
